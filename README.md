@@ -1,2 +1,2 @@
-# MiniIEEEXtreme
-Se (trataran) resolveran tantos ejercicios propuestos en los contest como sea posible, pero dejare de quedarme atrás
+# MinIEEEXtreme
+Se resolveran tantos ejercicios propuestos en los contest como sea posible. ¯\_(ツ)_/¯
